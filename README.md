@@ -12,7 +12,7 @@ As a bona fide FinTech professional, you might find yourself looking into home v
         <li><a href="#howcanpandas">How can Pandas help with Time Series Analysis?</a></li>
         <li><a href="#whatisadataframe">What is a DataFrame?</a>
     </ol>
-    <li><a href="#files">Files</a></li>
+    <li><a href="#projectfiles">Files</a></li>
     <li><a href="#instructions">Instructions</a></li>
         <ol type="a">
         <li><a href="#importlibrary">Importing our libraries</a></li>
@@ -60,7 +60,7 @@ This could be conceptualized as a DataFrame, with four Series within it: **Time*
 
 When working with DataFrames with financial information, we'll also arrange our rows based on the values found along the index—and because we're analyzing our DataFrames based off of the flow of time, we'll make the Series which keeps track of time our index. In this exercise, we'll track the growth of company stocks over the course of several years, and find which dates saw the greatest amount of one-day growth, so we can futher investigate what caused that increase in shareholder value.
 
-## Files <a id="files"></a>
+## Files <a id="projectfiles"></a>
 For this assignment, you'll be working with the project in the `Unsolved/` folder. If you're stuck, feel free to take a peek the `Solved/` folder instead. Within, you'll find the JupyterLabs notebook you'll be working in, as well as a couple of CSV files storing the stock price data we'll being working with.
 
 ## Instructions <a id="instructions"></a>
@@ -516,7 +516,7 @@ To see a completed version of this project, navigate to the `Unsolved/Notebooks/
 
 ## What's Next? <a id="whatsnext"></a>
 
-Whew! That was a lot. But we accomplished so much, from importing a CSV file, arranging a resultant DataSet and displaying compelling charts that gave us real insight about the performance of these assets. We can use these skills going forward and evaluate other stocks, cryptocurrencies or other financial instruments.
+Whew! That was a lot. But we accomplished so much, from importing a CSV file and arranging the resultant DataSet to displaying compelling charts that gave us real insight about the performance of these assets. We can use these skills going forward and evaluate other stocks, cryptocurrencies or other financial instruments.
 
 Feel free to look into other Python libraries that complement Pandas, such as [matplotlib](https://matplotlib.org/) [seaborn](http://seaborn.pydata.org/index.html)! These libraries are used by FinTech professionals, as well as Data Visualization experts of every kind, to help make sense of numbers just like we did today.
 

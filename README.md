@@ -518,6 +518,6 @@ To see a completed version of this project, navigate to the `Unsolved/Notebooks/
 
 Whew! That was a lot. But we accomplished so much, from importing a CSV file, arranging a resultant DataSet and displaying compelling charts that gave us real insight about the performance of these assets. We can use these skills going forward and evaluate other stocks, cryptocurrencies or other financial instruments.
 
-Feel free to look into other Python libraries that complement Pandas, such as [matplotlib](https://matplotlib.org/) [seaborn](http://seaborn.pydata.org/index.html)! These libraries are used by FinTech professionals, as well as all kinds of Data Visualization experts to help make sense of numbers just like we did today.
+Feel free to look into other Python libraries that complement Pandas, such as [matplotlib](https://matplotlib.org/) [seaborn](http://seaborn.pydata.org/index.html)! These libraries are used by FinTech professionals, as well as Data Visualization experts of every kind, to help make sense of numbers just like we did today.
 
 Feel proud of yourself—you mastered a difficult challenge, and learned a lot a long the way!
